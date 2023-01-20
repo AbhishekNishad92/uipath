@@ -1,18 +1,13 @@
 {
-  "name": "document understnading",
+  "name": "Excercise_Task",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.DocumentUnderstanding.Activities": "[1.1.0-preview]",
-    "UiPath.DocumentUnderstanding.ML.Activities": "[1.18.0]",
     "UiPath.Excel.Activities": "[2.17.0-preview]",
-    "UiPath.IntelligentOCR.Activities": "[6.6.0]",
     "UiPath.Mail.Activities": "[1.18.2]",
-    "UiPath.OmniPage.Activities": "[1.13.0]",
-    "UiPath.PDF.Activities": "[3.11.0]",
     "UiPath.System.Activities": "[22.10.4]",
     "UiPath.Testing.Activities": "[22.12.0-preview]",
-    "UiPath.UIAutomation.Activities": "[22.12.0-preview]"
+    "UiPath.UIAutomation.Activities": "[22.10.4]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -53,7 +48,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "f733b1ee-b6c5-4c6a-b16f-e3176940dbd1",
+      "uniqueId": "7626f714-280c-4ba7-bae9-adc82414689d",
       "input": [],
       "output": []
     }
